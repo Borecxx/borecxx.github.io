@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zug Property Development GmbH</title>
+    <link>https://borecxx.github.io/en/</link>
+    <description>Recent content on Zug Property Development GmbH</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 12 Nov 2018 19:05:30 +0100</lastBuildDate>
+    
+	<atom:link href="https://borecxx.github.io/en/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://borecxx.github.io/en/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://borecxx.github.io/en/about/</guid>
+      <description>The smart way of living Zug Property Development gmbh was founded in 2017 as a reaction to the market demand for affordable quality housing in Switzerland. We have a network of expert Architects and Builders who have many years of experience and have worked on numerous projects with many happy owners.
+Company Concept Too often developers are attempting to maximize their profits by building large apartment complexes. Houses are considered luxury objects and are typically price restrictive.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://borecxx.github.io/en/contact/contactdetails/</link>
+      <pubDate>Mon, 12 Nov 2018 19:05:30 +0100</pubDate>
+      
+      <guid>https://borecxx.github.io/en/contact/contactdetails/</guid>
+      <description>Contact Form Name First Name Email Address Message    </description>
+    </item>
+    
+    <item>
+      <title>Luxurios Lifestyle-Houses - Bergdietikon</title>
+      <link>https://borecxx.github.io/en/projects/bergdietikon/</link>
+      <pubDate>Sat, 10 Nov 2018 12:00:00 +0000</pubDate>
+      
+      <guid>https://borecxx.github.io/en/projects/bergdietikon/</guid>
+      <description>Überbauung Raistrasse, 8962 Bergdietikon Luxuriöse Lifestyle-Häuser im ruhigen Quartier, unweit von Zürich
+An ruhiger Lage mit unverbaubarer Sicht, idyllische im Grünen eingebettet, entstehen per Ende 2019 vier luxuriöse Lifestyle Häuser mit exklusiver Ausstattung.
+Jedes Haus verfügt über ein Untergeschoss mit und Keller und Wohn- und Küchenbereich, zwei Terrassen, nach Wahl mit Schwimmbad oder Whirlpool. Im Erdgeschoss befindet sich die Garage, der Eingangsbereich und 2 Schlafzimmer mit Badzimmer. Die Attika mit großer Terrasse kann zu einem großzügigen Masterschlafzimmer mit Wellnessbereich ausgebaut werden.</description>
+    </item>
+    
+    <item>
+      <title>International Property</title>
+      <link>https://borecxx.github.io/en/service/service1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://borecxx.github.io/en/service/service1/</guid>
+      <description>&lt;p&gt;Interested in purchasing property abroad for your holiday home or as an investment?
+Zug Property Development International GmbH currently offers services in Greece.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Property Development</title>
+      <link>https://borecxx.github.io/en/service/service3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://borecxx.github.io/en/service/service3/</guid>
+      <description>&lt;p&gt;There is a real shortage of houses in Switzerland. The market is overflowing with apartments and this doesn&amp;rsquo;t meet the demands of many families.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
